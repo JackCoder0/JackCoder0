@@ -11,7 +11,7 @@
 
 ##
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JackCoder0&bg_color=161b22&color=00bfbf&line=00d8d8&point=004c4c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JackCoder0&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ##
 
@@ -24,7 +24,7 @@
 <div align="center">  
 <a href="https://www.instagram.com/nevergiveup_man0/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" </a>
 <a href="mailto:jacksonxcontato13@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" </a>
-<a href="mailto:jacksonxcontato13@gmail.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" </a>
+<a href="https://www.linkedin.com/in/jackson-silva-coder/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" </a>
 </div> 
  
  ##      
