@@ -50,7 +50,29 @@
 ### Studying in this moment:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
  
- ##
+##
+<div align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JackCoder0&theme=dark&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+</div>
+
+##
+
+<div align="center">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/JackCoder0/JackCoder0/output/github-contribution-grid-snake.svg"
+  />
+</div>
+
+##
  
  <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
